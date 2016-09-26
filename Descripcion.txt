@@ -1,0 +1,12 @@
+si deseas mas tutoriales tiene que suscriberte,
+que estan mas por venir
+
+ultimamente estoy desarrollando un proyecto en android
+sobre 
+
+-api rest en c# con sql server
+-conexion con android a las api credas
+-y mucho mas
+
+
+ 

@@ -1,0 +1,12 @@
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\bin\Debug\ExportarPDF.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\bin\Debug\ExportarPDF.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\bin\Debug\ExportarPDF.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.Resources.resources
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.vbproj.GenerateResource.Cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.exe
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.xml
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.pdb
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\bin\Debug\itextsharp.dll
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.vbprojResolveAssemblyReference.cache
+C:\Users\Juvenal\Documents\Visual Studio 2010\Projects\vtExpotarPDF\ExportarPDF\ExportarPDF\obj\x86\Debug\ExportarPDF.frmlistapdf.resources
